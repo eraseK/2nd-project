@@ -1,9 +1,14 @@
-# 2nd-project![KakaoTalk_20230524_185822233](https://github.com/eraseK/2nd-project/assets/116993656/2064b574-f721-40f6-bd4c-0c8668b97315)
+![역할분담](https://github.com/eraseK/2nd-project/assets/116993656/2f8785cd-5616-454c-a6de-743667b9278b)# 2nd-project CASE# ![KakaoTalk_20230524_185822233](https://github.com/eraseK/2nd-project/assets/116993656/2064b574-f721-40f6-bd4c-0c8668b97315)
+   CRUD구현한 폰 케이스 쇼핑몰을 구현해보았습니다.
+ 
+    
+· 역할분담 
+  ![역할분담](https://github.com/eraseK/2nd-project/assets/116993656/e2d72d16-f691-45a4-8540-f9e0eed32c3d)
 
-# 주제 
-   로그인, 글 작성, 구매 등이 구현된 쇼핑몰 사이트 
-   
-   (역할분담 : 커뮤니티 및 로그인, 회원가입, 회원정보 찾기)
+
+· ERD
+   ![ERD](https://github.com/eraseK/2nd-project/assets/116993656/585074f9-ebf2-4d9d-a7c5-1c8fde617f6e)
+
 
 · 개발툴 
   - Eclipse IDE
